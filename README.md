@@ -2,8 +2,8 @@
 
 [![GitHub release](https://img.shields.io/github/release/nnoskov/h806sb-integration.svg)](https://github.com/nnoskov/h806sb-integration/releases)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/hacs/integration)
-![GitHub last commit](https://img.shields.io/github/last-commit/nnoskov/h806sb-integration)
+[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/nnoskov/ha806sb-integration)
+![GitHub last commit](https://img.shields.io/github/last-commit/nnoskov/ha806sb-integration)
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-%E2%98%95-yellow)](https://buymeacoffee.com/nnoskov)
 
 Control your H806SB LED strip controllers directly from Home Assistant via WiFi. This custom integration provides seamless control of your LED lighting with automatic device discovery and intuitive controls.
